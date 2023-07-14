@@ -1901,4 +1901,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 .pow{
   justify-content: space-around;
 }
+
+a{
+  color: yellow;
+}
+a:hover{
+  
+  color: orange;
+  opacity: .9;
 }

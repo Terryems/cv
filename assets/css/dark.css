@@ -1,0 +1,22 @@
+/* Default styles */
+
+/* Dark mode styles */
+.dark-mode {
+    background-color: #474444; /* Change to your preferred dark background color */
+    color: #ffffff; /* Change to your preferred dark text color */
+    /* Add more styles as needed for dark mode */
+  }
+  #toggleButton{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 10px;
+  }
+  #moonIcon{
+    color: #ffffff;
+
+  }
+  #sunIcon{
+    color: dark;
+  }

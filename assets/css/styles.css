@@ -74,7 +74,7 @@ img {
 .section-title {
   position: relative;
   font-size: var(--h2-font-size);
-  color: olivedrab;
+  color: red;
   /* color: var(--first-color); */
   margin-top: var(--mb-2);
   margin-bottom: var(--mb-4);
@@ -90,7 +90,7 @@ img {
   margin: auto;
   top: 2rem;
   /* background-color: var(--first-color); */
-  background-color: olivedrab;
+  background-color: orange;
 }
 
 .section {
@@ -132,7 +132,8 @@ img {
     width: 80%;
     height: 100%;
     padding: 2rem;
-    background-color: var(--second-color);
+    /* background-color: var(--second-color); */
+    background-color: orange;
     transition: 0.5s;
   }
 }
@@ -194,7 +195,8 @@ img {
   margin-bottom: var(--mb-5);
 }
 .home__title-color {
-  color: var(--first-color);
+  /* color: var(--first-color); */
+  color: orange;
 }
 .home__social {
   display: flex;
@@ -204,7 +206,8 @@ img {
   width: max-content;
   margin-bottom: var(--mb-2);
   font-size: 1.5rem;
-  color: var(--second-color);
+  /* color: var(--second-color); */
+  color: orange;
 }
 .home__social-icon:hover {
   color: var(--first-color);
@@ -225,7 +228,7 @@ img {
 /*BUTTONS*/
 .button {
   display: inline-block;
-  background-color: olivedrab;
+  background-color: orange;
 
   /* background-color: var(--first-color); */
   color: #fff;
@@ -289,7 +292,8 @@ img {
   position: absolute;
   left: 0;
   bottom: 0;
-  background-color: var(--first-color);
+  /* background-color: var(--first-color); */
+  background-color: orange;
   height: 0.25rem;
   border-radius: 0.5rem;
   z-index: var(--z-back);
